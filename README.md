@@ -14,4 +14,4 @@ Print the pdfs and follow the instructions.
 
 paperWORDLEv0.2-EN is an English version, and paperWORDLEv0.2-GR a Greek one.
 
-![paperWORDLE logo](https://raw.githubusercontent.com/idpolitis/paperWORDLE/main/logo.png)
+![paperWORDLE logo](https://github.com/idpolitis/paperWORDLE/blob/main/pW-logo.png?raw=true)
