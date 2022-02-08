@@ -14,3 +14,4 @@ Print the pdfs and follow the instructions.
 
 paperWORDLEv0.2-EN is an English version, and paperWORDLEv0.2-GR a Greek one.
 
+![paperWORDLE logo](paperWORDLE/logo.png)
